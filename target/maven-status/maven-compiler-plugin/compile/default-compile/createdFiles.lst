@@ -1,0 +1,3 @@
+com\example\reservationservice\ReservationServiceApplication.class
+com\example\reservationservice\Reservation.class
+com\example\reservationservice\ReservationRepository.class
